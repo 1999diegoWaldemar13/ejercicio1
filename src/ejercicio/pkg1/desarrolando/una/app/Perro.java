@@ -11,5 +11,5 @@ package ejercicio.pkg1.desarrolando.una.app;
  */
 public class Perro {
     public int años;
-    
+    public String nombre;
 }
